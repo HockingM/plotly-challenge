@@ -12,7 +12,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 * [d3js](https://d3js.org/)
-* [plotly](https://plotly.com/javascript/](https://plotly.com/javascript/)
+* [plotly](https://plotly.com/javascript/)
 
 ## Acknowledgements
 
